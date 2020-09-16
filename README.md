@@ -1,4 +1,4 @@
-# Automovil Web Landing Page
+# Automobile Web Landing Page
 
 This website is a exercise part of the 100 days of Code Challenge.
 
